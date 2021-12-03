@@ -29,28 +29,5 @@ int main()
     enteros.print();
 
 
-
-
-
-
-
-
-
-
-    /*enteros.print_reverse();
-    cout<<endl;
-
-    //Front
-    int *front=enteros.front();
-
-    if(front){
-        cout<<"Front: "<<*front<<endl;
-    }
-
-    //Back
-    int *back=enteros.back();
-    if(back){
-        cout<<"back: "<<*back<<endl;
-    }*/
     return 0;
 }
